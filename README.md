@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hola mi nombre es Jessica, me gusta desarrollar y automatizar procesos.
+
 <!--
 **jess-commits/jess-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
